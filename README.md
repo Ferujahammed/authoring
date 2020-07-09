@@ -17,6 +17,8 @@
 
 - [x] Tables
 
+:kissing_closed_eyes:
+
 [Kurier 247](https://kurier247.de/)
 
 [Image link](https://github.com/Ferujahammed/authoring/tree/master/image)
